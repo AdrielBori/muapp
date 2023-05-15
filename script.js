@@ -121,7 +121,7 @@ const items=[
                                         "HPmax":0,
                                         "tipo":"arma"
                                         },{
-                                            "nombre":"Sunlight",
+                                            "nombre":"Sunlight pants",
                                             "luck":1,
                                             "dañoEx":0,
                                             "daño2":0,

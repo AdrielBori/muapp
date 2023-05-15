@@ -14,7 +14,7 @@ const items=[
             "Rate":0,
             "Reflect":1,
             "HPmax":0,
-            "tipo":"arma"
+            "id":01
             },{
                 "nombre":"platina staff",
                 "luck":1,
@@ -29,7 +29,7 @@ const items=[
                 "Rate":0,
                 "Reflect":0,
                 "HPmax":0,
-                "tipo":"arma"
+                "id":02
                 },{
                     "nombre":"venom golves",
                     "luck":1,
@@ -44,7 +44,7 @@ const items=[
                     "Rate":0,
                     "Reflect":1,
                     "HPmax":0,
-                    "tipo":"arma"
+                    "id":03
                     },{
                         "nombre":"Sylphid armor",
                         "luck":1,
@@ -59,7 +59,7 @@ const items=[
                         "Rate":0,
                         "Reflect":1,
                         "HPmax":1,
-                        "tipo":"arma"
+                        "id":04
                         },{
                             "nombre":"Grand Soul golves",
                             "luck":1,
@@ -74,7 +74,7 @@ const items=[
                             "Rate":0,
                             "Reflect":1,
                             "HPmax":1,
-                            "tipo":"arma"
+                            "id":05
                             },{
                                 "nombre":"Eclipse boot",
                                 "luck":1,
@@ -89,7 +89,7 @@ const items=[
                                 "Rate":0,
                                 "Reflect":0,
                                 "HPmax":1,
-                                "tipo":"arma"
+                                "id":06
                                 },{
                                     "nombre":"Sylphid boot",
                                     "luck":1,
@@ -104,7 +104,7 @@ const items=[
                                     "Rate":0,
                                     "Reflect":1,
                                     "HPmax":1,
-                                    "tipo":"arma"
+                                    "id":07
                                     },{
                                         "nombre":"iris pant",
                                         "luck":1,
@@ -119,7 +119,7 @@ const items=[
                                         "Rate":1,
                                         "Reflect":0,
                                         "HPmax":0,
-                                        "tipo":"arma"
+                                        "id":08
                                         },{
                                             "nombre":"Sunlight pants",
                                             "luck":1,
@@ -134,7 +134,7 @@ const items=[
                                             "Rate":0,
                                             "Reflect":0,
                                             "HPmax":1,
-                                            "tipo":"arma"
+                                            "id":09
                                             },
     {
             "nombre":"Great Dragon golves",
@@ -150,7 +150,7 @@ const items=[
             "Rate":0,
             "Reflect":1,
             "HPmax":0,
-            "tipo":"arma"
+            "id":10
             },{
                 "nombre":"Eclipse Helm",
                 "luck":1,
@@ -165,7 +165,7 @@ const items=[
                 "Rate":1,
                 "Reflect":0,
                 "HPmax":0,
-                "tipo":"arma"
+                "id":11
                 },{
                     "nombre":"Eclipse Golves",
                     "luck":1,
@@ -180,7 +180,7 @@ const items=[
                     "Rate":1,
                     "Reflect":0,
                     "HPmax":0,
-                    "tipo":"arma"
+                    "id":12
                     },{
                         "nombre":"Eclipse Pant",
                         "luck":1,
@@ -195,7 +195,7 @@ const items=[
                         "Rate":1,
                         "Reflect":0,
                         "HPmax":0,
-                        "tipo":"arma"
+                        "id":13
                         },{
                             "nombre":"Ashcrow golves",
                             "luck":0,
@@ -210,7 +210,7 @@ const items=[
                             "Rate":0,
                             "Reflect":1,
                             "HPmax":0,
-                            "tipo":"arma"
+                            "id":14
                             },{
                                 "nombre":"Explosion Blade",
                                 "luck":1,
@@ -225,7 +225,7 @@ const items=[
                                 "Rate":0,
                                 "Reflect":0,
                                 "HPmax":0,
-                                "tipo":"arma"
+                                "id":15
                                 },{
                                     "nombre":"Platina staff",
                                     "luck":1,
@@ -240,7 +240,7 @@ const items=[
                                     "Rate":0,
                                     "Reflect":0,
                                     "HPmax":0,
-                                    "tipo":"arma"
+                                    "id":16
                                     },{
                                         "nombre":"Viper",
                                         "luck":1,
@@ -255,7 +255,7 @@ const items=[
                                         "Rate":0,
                                         "Reflect":0,
                                         "HPmax":0,
-                                        "tipo":"arma"
+                                        "id":17
                                         },{
                                             "nombre":"iris boots",
                                             "luck":1,
@@ -270,7 +270,7 @@ const items=[
                                             "Rate":0,
                                             "Reflect":0,
                                             "HPmax":1,
-                                            "tipo":"arma"
+                                            "id":18
                                             },{
                                                 "nombre":"Dark Steel boots",
                                                 "luck":1,
@@ -285,7 +285,7 @@ const items=[
                                                 "Rate":1,
                                                 "Reflect":0,
                                                 "HPmax":0,
-                                                "tipo":"arma"
+                                                "id":19
                                                 },{
                                                     "nombre":"volcano pants",
                                                     "luck":1,
@@ -300,7 +300,7 @@ const items=[
                                                     "Rate":1,
                                                     "Reflect":1,
                                                     "HPmax":0,
-                                                    "tipo":"arma"
+                                                    "id":20
                                                     },{
                                                         "nombre":"Dark steel golves",
                                                         "luck":1,
@@ -315,7 +315,7 @@ const items=[
                                                         "Rate":0,
                                                         "Reflect":0,
                                                         "HPmax":1,
-                                                        "tipo":"arma"
+                                                        "id":21
                                                         }
                                                         ,{
                                                             "nombre":"Grand soul Helm",
@@ -331,7 +331,7 @@ const items=[
                                                             "Rate":0,
                                                             "Reflect":1,
                                                             "HPmax":0,
-                                                            "tipo":"arma"
+                                                            "id":22
                                                             },
              {
                 "nombre":"valiants golves",
@@ -347,7 +347,7 @@ const items=[
                 "Rate":0,
                 "Reflect":1,
                 "HPmax":0,
-                "tipo":"arma"
+                "id":23
               },{
                 "nombre":"dragon kinght armor",
                 "luck":0,
@@ -362,7 +362,7 @@ const items=[
                 "Rate":0,
                 "Reflect":1,
                 "HPmax":0,
-                "tipo":"arma"
+                "id":24
               },{
                 "nombre":"glorius pant",
                 "luck":1,
@@ -377,7 +377,7 @@ const items=[
                 "Rate":0,
                 "Reflect":1,
                 "HPmax":0,
-                "tipo":"arma"
+                "id":25
               },{
                 "nombre":"sunlight pants",
                 "luck":0,
@@ -392,7 +392,7 @@ const items=[
                 "Rate":0,
                 "Reflect":0,
                 "HPmax":1,
-                "tipo":"arma"
+                "id":26
               },{
                 "nombre":"venom boots",
                 "luck":0,
@@ -407,7 +407,7 @@ const items=[
                 "Rate":0,
                 "Reflect":0,
                 "HPmax":1,
-                "tipo":"arma"
+                "id":27
               },{
                 "nombre":"ashcrow armor",
                 "luck":1,
@@ -422,8 +422,8 @@ const items=[
                 "Rate":0,
                 "Reflect":0,
                 "HPmax":1,
-                "tipo":"arma"
-              },,{
+                "id":28
+              },{
                 "nombre":"venom helm",
                 "luck":0,
                 "dañoEx":0,
@@ -437,7 +437,7 @@ const items=[
                 "Rate":0,
                 "Reflect":0,
                 "HPmax":1,
-                "tipo":"arma"
+                "id":29
               }
             
 ]
@@ -480,7 +480,7 @@ let cambio=(x)=>{
                     <span class="opcion3">${element.Rate>0 ? "Rate %":""}</span>
                     <span class="opcion3">${element.Reflect>0 ? "reflect":""}</span>
                     <span class="opcion3">${element.HPmax>0 ? "HP MAX":""}</span>
-                    <a href="https://wa.me/541133830684?text=quiero${element.nombre}"><img src="whatsapp.png" alt="" class="iconw"></a>
+                    <a href="https://wa.me/541133830684?text=quiero${element.nombre+element.id}"><img src="whatsapp.png" alt="" class="iconw"></a>
                     
                 `
             conteiner.appendChild(tarjeta);

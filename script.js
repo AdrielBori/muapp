@@ -409,21 +409,6 @@ const items=[
                 "HPmax":1,
                 "id":27
               },{
-                "nombre":"ashcrow armor",
-                "luck":1,
-                "dañoEx":0,
-                "daño2":0,
-                "velocidad":0,
-                "level20":0,
-                "nivel":0,
-                "raza":"BM",
-                "ReduceDamage":1,
-                "nivel":0,
-                "Rate":0,
-                "Reflect":0,
-                "HPmax":1,
-                "id":28
-              },{
                 "nombre":"venom helm",
                 "luck":0,
                 "dañoEx":0,

@@ -467,7 +467,7 @@ const items=[
                 "Rate":0,
                 "Reflect":0,
                 "HPmax":1,
-                "id":29
+                "id":33
               },{
                 "nombre":"volcano armor",
                 "luck":1,
@@ -482,7 +482,7 @@ const items=[
                 "Rate":1,
                 "Reflect":0,
                 "HPmax":1,
-                "id":29
+                "id":34
               }
             
 ]

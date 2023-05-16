@@ -120,22 +120,7 @@ const items=[
                                         "Reflect":0,
                                         "HPmax":0,
                                         "id":08
-                                        },{
-                                            "nombre":"Sunlight pants",
-                                            "luck":1,
-                                            "dañoEx":0,
-                                            "daño2":0,
-                                            "velocidad":0,
-                                            "level20":0,
-                                            "nivel":0,
-                                            "raza":"LE",
-                                            "ReduceDamage":1,
-                                            "nivel":0,
-                                            "Rate":0,
-                                            "Reflect":0,
-                                            "HPmax":1,
-                                            "id":09
-                                            },
+                                        },
     {
             "nombre":"Great Dragon golves",
             "luck":0,
